@@ -1,0 +1,6 @@
+moka : 1000 : g
+jajca : 12 : kos
+piščančje meso : 2300 : g
+sol : 9999999 : g
+ginger : 232 : g
+

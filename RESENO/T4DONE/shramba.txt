@@ -1,0 +1,10 @@
+moka : 1000 : g
+jajca : 12 : kos
+maslo : 5 : g
+mleko : 15 : ml
+olje : 10 : ml
+
+
+piscancje meso : 2300 : g
+sol : 1 : g
+kokos
