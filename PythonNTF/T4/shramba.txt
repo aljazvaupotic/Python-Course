@@ -1,0 +1,7 @@
+moka : 1000 : g
+jajca : 12 : kos
+maslo : 5 : g
+mleko : 150 : ml
+olje : 1000 : ml
+piščančje meso : 2300 : g
+

@@ -1,0 +1,24 @@
+Programski jezik: Python 
+	
+	-	verzija 3.6+
+	
+	-	https://www.python.org/downloads/
+
+	-	sledimo navodilo za namestitev
+
+	-	če imamo Python že nameščen (vsi macOS in Linux imajo python 2.7) ali 
+		smo zaključili z nameščanjem moramo preveriti če se je uspešno namestil
+
+	-	v Terminal (Mac, Linux) oz. Command Prompt (Win) napišemo python -v
+
+Urejevalnik kode:
+	- Notepad
+	- Notepad++
+	- Sublime Text
+
+IDE (integirana okolja za naš jezik)
+	- PyCharm
+	- Atom
+	- Visual Studio Code
+
+	

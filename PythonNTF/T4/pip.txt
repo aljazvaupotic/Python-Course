@@ -1,0 +1,19 @@
+#____________________________________________________________________
+# TERMIN 4, 12.6.2019
+# PIP
+#____________________________________________________________________
+
+Za uporabo knjižnic, ki niso del standardnega paketa Pyhton, potrebujemo pip (pacakage manager for Python packages).
+
+V verzijah Python 3.4+ je ta že avtomatično naložen ob instalaciji Pythona na računalnik. 
+
+Če želimo naložiti nov package, vse kar potrebujemo je v cmd vpišemo:
+python -m pip install --user *ime paketa*
+
+
+Paketi katere bomo potrebovali:
+	numpy scipy matplotlib ipython jupyter pandas sympy nose
+
+
+
+

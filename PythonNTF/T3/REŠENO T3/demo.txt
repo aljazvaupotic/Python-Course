@@ -1,0 +1,4 @@
+demo.txt
+
+
+Tu delamo kar nekaj
